@@ -2,4 +2,4 @@ _list_interger.py
 #!/usr/bin/python3
 def print_list_integer(my_list=[]):
     for x in range(len(my_list)):
-        print('{} '.format(my_list[x]), sep = "\n")
+        print('{:d} '.format(my_list[x]), sep = "\n")
