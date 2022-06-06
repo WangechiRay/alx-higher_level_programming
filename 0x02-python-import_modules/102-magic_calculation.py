@@ -13,5 +13,8 @@ def magic_calculation(a, b):
 
     else:
         return(sub(a, b))
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 0125f0433ce4f7709de507d3b740969926dbe228
