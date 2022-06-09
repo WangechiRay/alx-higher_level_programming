@@ -1,1 +1,2 @@
-0x01. Python programming - if/else, loops, functions
+learning python programming- a high level language 
+and its basics 
